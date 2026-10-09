@@ -22,10 +22,10 @@ How to Run:
 
 Open index.html in your web browser.
 
-Ideas for Future Updates
+Ideas for Future Updates:
 
-Add a score tracker to keep count of wins
+-Add a score tracker to keep count of wins
 
-Add simple AI to play against single-player
+-Add simple AI to play against single-player
 
-Add sound effects for moves and wins
+-Add sound effects for moves and wins
