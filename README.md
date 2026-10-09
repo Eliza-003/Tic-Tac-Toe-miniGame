@@ -12,8 +12,6 @@ Reset button to play again without refreshing
 
 Grid styled with CSS Grid
 
-Tech Stack
-
 HTML5
 
 CSS3
