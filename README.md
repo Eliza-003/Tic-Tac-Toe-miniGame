@@ -20,12 +20,7 @@ CSS3
 
 JavaScript (ES6)
 
-How to Run
-
-Download or clone this repository:
-
-git clone https://github.com/your-username/your-repo-name.git
-
+How to Run:
 
 Open index.html in your web browser.
 
