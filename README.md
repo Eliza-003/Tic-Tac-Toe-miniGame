@@ -2,7 +2,7 @@ Tic-Tac-Toe
 
 A simple Tic-Tac-Toe game made with HTML, CSS, and vanilla JavaScript. Built as a project to practice core JavaScript concepts like DOM manipulation, state management, and handling click events.
 
-Features
+Features:
 
 2-player mode (X and O on the same screen)
 
