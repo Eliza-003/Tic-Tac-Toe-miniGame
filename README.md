@@ -4,17 +4,17 @@ A simple Tic-Tac-Toe game made with HTML, CSS, and vanilla JavaScript. Built as 
 
 Features:
 
-2-player mode (X and O on the same screen)
+2-player mode (X and O on the same screen),
 
-Automatic win and draw checking
+Automatic win and draw checking,
 
-Reset button to play again without refreshing
+Reset button to play again without refreshing,
 
-Grid styled with CSS Grid
+Grid styled with CSS Grid,
 
-HTML5
+HTML5,
 
-CSS3
+CSS3,
 
 JavaScript (ES6)
 
